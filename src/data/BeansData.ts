@@ -42,7 +42,7 @@ const BeansData = [
   {
     id: 'B3',
     name: 'Liberica Beans',
-    description: `Native to central and western Africa – specifically Liberia, hence its name – Coffea liberica is prized for its piquant floral aroma and bold, smoky flavor profile. Growing from a much larger plant than Arabica or Robusta, most Liberica cherries tend to be irregular in shape and closer to Robusta in size and general appearance. It’s also tolerant of hot, humid climates and does well at low altitude. `,
+    description: `Native to central and western Africa – specifically Liberia, hence its name – Coffee liberica is prized for its piquant floral aroma and bold, smoky flavor profile. Growing from a much larger plant than Arabica or Robusta, most Liberica cherries tend to be irregular in shape and closer to Robusta in size and general appearance. It’s also tolerant of hot, humid climates and does well at low altitude. `,
     roasted: 'Medium Roasted',
     imagelink_square: require('../assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_square.png'),
     imagelink_portrait: require('../assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_portrait.png'),
